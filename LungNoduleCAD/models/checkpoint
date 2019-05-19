@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ming/PycharmProjects/3D_CNN/models/nodule-classifier.tfl"
+all_model_checkpoint_paths: "/Users/ming/PycharmProjects/3D_CNN/models/nodule-classifier.tfl"
